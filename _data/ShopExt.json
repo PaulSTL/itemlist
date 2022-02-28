@@ -4022,7 +4022,7 @@
       "defName": "StarWarsRaces_Wookiee",
       "enabled": true,
       "name": "Wookiee",
-      "price": 4583
+      "price": 3583
     },
     {
       "data": {
@@ -4141,7 +4141,7 @@
       "defName": "AFerian",
       "enabled": true,
       "name": "Ferian",
-      "price": 3333
+      "price": 2333
     },
     {
       "data": {
