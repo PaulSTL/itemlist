@@ -24,11 +24,12 @@ wordpress:
 youtube: UC_pTrK5D0CjTRIpx4a9h6Sw
 twitch: paulstl
 tiktok: paul_stl
+bluesky: paulstl.bsky.social
 
 # Share button options
 share:
   facebook: true
-  twitter: true
+  twitter: 
   tumblr:
   pinterest:
   pocket:
@@ -36,3 +37,4 @@ share:
   linkedin:
   wordpress:
   email: true
+  bluesky: true
