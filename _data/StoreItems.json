@@ -8267,7 +8267,553 @@
 		"price": 267,
 		"category": "Power",
 		"defname": "Electroharvester"
+	},
+	{
+		"abr": "animalfeedtrough",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "AnimalFeedTrough"
+	},
+	{
+		"abr": "floodlight",
+		"price": 162,
+		"category": "Furniture",
+		"defname": "FloodLight"
+	},
+	{
+		"abr": "frenzyinducer",
+		"price": 825,
+		"category": "Misc",
+		"defname": "FrenzyInducer"
+	},
+	{
+		"abr": "ghoulbarbs",
+		"price": 80,
+		"category": "Ghoul",
+		"defname": "GhoulBarbs"
+	},
+	{
+		"abr": "ghoulplating",
+		"price": 142,
+		"category": "Ghoul",
+		"defname": "GhoulPlating"
+	},
+	{
+		"abr": "ghoulresurrectionserum",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "GhoulResurrectionSerum"
+	},
+	{
+		"abr": "goldencube",
+		"price": 2000,
+		"category": "Misc",
+		"defname": "GoldenCube"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestcanopy",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "CanopyGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestelvenloungebed",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenBedGuest"
+	},
+	{
+		"abr": "guestelvenroyalbed",
+		"price": 1225,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenRoyalBedGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guestfoldingtent",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "FoldingTentGuest"
+	},
+	{
+		"abr": "guestindustrialtent",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "ModernTentGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestteepee",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "TeepeeGuest"
+	},
+	{
+		"abr": "guesttent",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "TentGuest"
+	},
+	{
+		"abr": "guestvikingtent",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "VikingTentGuest"
+	},
+	{
+		"abr": "guestwoodencanopy",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "WoodenCanopyGuest"
+	},
+	{
+		"abr": "harbingerseed",
+		"price": 1000,
+		"category": "Misc",
+		"defname": "HarbingerSeed"
+	},
+	{
+		"abr": "hellcatrifle",
+		"price": 825,
+		"category": "Ranged weapons",
+		"defname": "Gun_HellcatRifle"
+	},
+	{
+		"abr": "hikingpoles",
+		"price": 167,
+		"category": "Caravan speed upgrades",
+		"defname": "TrekTech_HikingPoles"
+	},
+	{
+		"abr": "holdingplatform",
+		"price": 139,
+		"category": "Misc",
+		"defname": "HoldingPlatform"
+	},
+	{
+		"abr": "ieddeadlifetrap",
+		"price": 192,
+		"category": "Security",
+		"defname": "TrapIED_Deadlife"
+	},
+	{
+		"abr": "incinerator",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Gun_Incinerator"
+	},
+	{
+		"abr": "infernihart",
+		"price": 583,
+		"category": "Animals",
+		"defname": "FC_Infernihart"
+	},
+	{
+		"abr": "infernihartantler",
+		"price": 208,
+		"category": "Misc",
+		"defname": "FC_InfernihartAntler"
+	},
+	{
+		"abr": "infernihartleather",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "FC_Leather_Infernihart"
+	},
+	{
+		"abr": "infernihartshank",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FC_Infernihart"
+	},
+	{
+		"abr": "juggernautserum",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "JuggernautSerum"
+	},
+	{
+		"abr": "labcoat",
+		"price": 263,
+		"category": "Misc",
+		"defname": "Apparel_LabCoat"
+	},
+	{
+		"abr": "metalbloodheart",
+		"price": 158,
+		"category": "Ghoul",
+		"defname": "MetalbloodHeart"
+	},
+	{
+		"abr": "metalbloodserum",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "MetalbloodSerum"
+	},
+	{
+		"abr": "mind-numbserum",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "MindNumbSerum"
+	},
+	{
+		"abr": "mirelung",
+		"price": 583,
+		"category": "Animals",
+		"defname": "FC_Mirelung"
+	},
+	{
+		"abr": "mirelungantler",
+		"price": 208,
+		"category": "Misc",
+		"defname": "FC_MirelungAntler"
+	},
+	{
+		"abr": "mirelungleather",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "FC_Leather_Mirelung"
+	},
+	{
+		"abr": "mirelungshank",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FC_Mirelung"
+	},
+	{
+		"abr": "moncalamari",
+		"price": -10,
+		"category": "Animal",
+		"defname": "StarWarsRaces_MonCalamari"
+	},
+	{
+		"abr": "moncalamarimeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_StarWarsRaces_MonCalamari"
+	},
+	{
+		"abr": "monolithfragment",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "MonolithFragment"
+	},
+	{
+		"abr": "nerfhorn",
+		"price": 50,
+		"category": "Items",
+		"defname": "NerfHorn"
+	},
+	{
+		"abr": "nervespiker",
+		"price": 104,
+		"category": "Ranged weapons",
+		"defname": "NerveSpiker"
+	},
+	{
+		"abr": "novel",
+		"price": 267,
+		"category": "Books",
+		"defname": "Novel"
+	},
+	{
+		"abr": "proximitydetector",
+		"price": 108,
+		"category": "Misc",
+		"defname": "ProximityDetector"
+	},
+	{
+		"abr": "revenantspine",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "RevenantSpine"
+	},
+	{
+		"abr": "revenantvertebrae",
+		"price": 3158,
+		"category": "Bionic",
+		"defname": "RevenantVertebrae"
+	},
+	{
+		"abr": "ritualmask",
+		"price": 101,
+		"category": "Headgear",
+		"defname": "Apparel_CultistMask"
+	},
+	{
+		"abr": "robe",
+		"price": 297,
+		"category": "Misc",
+		"defname": "Apparel_Robe"
+	},
+	{
+		"abr": "sandcubesculpture",
+		"price": 30,
+		"category": "Art",
+		"defname": "SandCubeSculpture"
+	},
+	{
+		"abr": "schematic",
+		"price": 250,
+		"category": "Books",
+		"defname": "Schematic"
+	},
+	{
+		"abr": "scire",
+		"price": 583,
+		"category": "Animals",
+		"defname": "FC_Scire"
+	},
+	{
+		"abr": "scireantler",
+		"price": 192,
+		"category": "Misc",
+		"defname": "FC_ScireAntler"
+	},
+	{
+		"abr": "scireleather",
+		"price": 14,
+		"category": "Leathers",
+		"defname": "FC_Leather_Scire"
+	},
+	{
+		"abr": "scireshank",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_FC_Scire"
+	},
+	{
+		"abr": "scrapcubesculpture",
+		"price": 30,
+		"category": "Art",
+		"defname": "ScrapCubeSculpture"
+	},
+	{
+		"abr": "serumlab",
+		"price": 1208,
+		"category": "Production",
+		"defname": "SerumCentrifuge"
+	},
+	{
+		"abr": "shard",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "Shard"
+	},
+	{
+		"abr": "shardanimalpulser",
+		"price": 875,
+		"category": "Artifacts",
+		"defname": "ShardAnimalPulser"
+	},
+	{
+		"abr": "shardbeacon",
+		"price": 708,
+		"category": "Misc",
+		"defname": "ShardBeacon"
+	},
+	{
+		"abr": "shardinhibitor",
+		"price": 717,
+		"category": "Misc",
+		"defname": "ShardInhibitor"
+	},
+	{
+		"abr": "shardinsanitylance",
+		"price": 883,
+		"category": "Utility",
+		"defname": "Apparel_ShardPsychicInsanityLance"
+	},
+	{
+		"abr": "shardshocklance",
+		"price": 850,
+		"category": "Utility",
+		"defname": "Apparel_ShardPsychicShockLance"
+	},
+	{
+		"abr": "skull",
+		"price": 8,
+		"category": "Misc",
+		"defname": "Skull"
+	},
+	{
+		"abr": "sleepsuppressor",
+		"price": 908,
+		"category": "Misc",
+		"defname": "SleepSuppressor"
+	},
+	{
+		"abr": "smallanimalfeedtrough",
+		"price": 136,
+		"category": "Furniture",
+		"defname": "AnimalFeedTroughSmall"
+	},
+	{
+		"abr": "smallbookcase",
+		"price": 35,
+		"category": "Furniture",
+		"defname": "BookcaseSmall"
+	},
+	{
+		"abr": "statueofanimal(1x1)",
+		"price": 358,
+		"category": "Art",
+		"defname": "TMB_StatueOfAnimal1x"
+	},
+	{
+		"abr": "statueofanimal(2x2)",
+		"price": 1258,
+		"category": "Art",
+		"defname": "TMB_StatueOfAnimal2x"
+	},
+	{
+		"abr": "stonecubesculpture",
+		"price": 30,
+		"category": "Art",
+		"defname": "StoneCubeSculpture"
+	},
+	{
+		"abr": "textbook",
+		"price": 267,
+		"category": "Books",
+		"defname": "TextBook"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "TherapyCouch"
+	},
+	{
+		"abr": "tome",
+		"price": 417,
+		"category": "Books",
+		"defname": "Tome"
+	},
+	{
+		"abr": "turretpack",
+		"price": 392,
+		"category": "Utility",
+		"defname": "Apparel_PackTurret"
+	},
+	{
+		"abr": "twistedmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Twisted"
+	},
+	{
+		"abr": "voidsculpture",
+		"price": 206,
+		"category": "Art",
+		"defname": "VoidSculpture"
+	},
+	{
+		"abr": "voidsightserum",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "VoidsightSerum"
+	},
+	{
+		"abr": "walkie-talkie",
+		"price": 667,
+		"category": "Caravan speed upgrades",
+		"defname": "TrekTech_HikingWalkieTalkie"
+	},
+	{
+		"abr": "walllamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "WallLamp"
+	},
+	{
+		"abr": "wallsunlamp",
+		"price": 97,
+		"category": "Furniture",
+		"defname": "MURWallSunLamp"
+	},
+	{
+		"abr": "bioferriteburnerarm",
+		"price": 223,
+		"category": "Ghoul",
+		"defname": "GhoulProsthetics_Burner"
+	},
+	{
+		"abr": "bioferritehelmet",
+		"price": 117,
+		"category": "Ghoul",
+		"defname": "GhoulProsthetics_Helmet"
+	},
+	{
+		"abr": "bioferritehunk",
+		"price": 167,
+		"category": "Ghoul",
+		"defname": "GhoulProsthetics_Mace"
+	},
+	{
+		"abr": "bioferriteshield",
+		"price": 192,
+		"category": "Ghoul",
+		"defname": "GhoulProsthetics_Shield"
+	},
+	{
+		"abr": "bioferritespikerarm",
+		"price": 223,
+		"category": "Ghoul",
+		"defname": "GhoulProsthetics_Spiker"
+	},
+	{
+		"abr": "stonespiketrap",
+		"price": 53,
+		"category": "Security",
+		"defname": "FSFStoneTrapSpike"
 	}
 	],
-	"total": 1461
+	"total": 1469
 }
