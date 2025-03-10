@@ -1,17 +1,17 @@
 {
   "tornado": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 10000,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "tornados": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 9000,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
