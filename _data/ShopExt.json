@@ -1714,23 +1714,223 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
+      "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PerfectMemory",
+      "name": "perfectmemory"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
+      "stats": [
+        "+100% study efficiency",
+        "+50% entity study rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100% study efficiency",
+          "+50% entity study rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Occultist",
+      "name": "occultist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Joyous",
+      "name": "joyous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BodyMastery",
+      "name": "bodymastery"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Disturbing",
+      "name": "disturbing"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
+      "stats": [
+        "Only mental break \"entity liberator\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Only mental break \"entity liberator\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VoidFascination",
+      "name": "voidfascination"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [],
       "conflicts": [
-        "workaholic",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
+        "workaholic"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "workaholic",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
+          "workaholic"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -1753,12 +1953,12 @@
         "x115% research speed"
       ],
       "conflicts": [
-        "dunce"
+        "slowlearner"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "dunce"
+          "slowlearner"
         ],
         "stats": [
           "x115% research speed"
@@ -1807,16 +2007,16 @@
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [],
       "conflicts": [
-        "brawler",
         "brave",
-        "bloodlust"
+        "bloodlust",
+        "brawler"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "brawler",
           "brave",
-          "bloodlust"
+          "bloodlust",
+          "brawler"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -1840,14 +2040,22 @@
         "+20% pain shock threshold"
       ],
       "conflicts": [
-        "wimp",
-        "coward"
+        "coward",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "wimp",
-          "coward"
+          "coward",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "wimp"
         ],
         "stats": [
           "-20% mental break threshold",
@@ -1896,18 +2104,14 @@
       "degree": 0,
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
-        "+10.0C Maximum comfortable temperature"
+        "+10.0C max comfortable temperature"
       ],
-      "conflicts": [
-        "coldinclined"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "coldinclined"
-        ],
+        "conflicts": [],
         "stats": [
-          "+10.0C Maximum comfortable temperature"
+          "+10.0C max comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1926,18 +2130,14 @@
       "degree": 0,
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
-        "-10.0C Minimum comfortable temperature"
+        "-10.0C min comfortable temperature"
       ],
-      "conflicts": [
-        "heatinclined"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "heatinclined"
-        ],
+        "conflicts": [],
         "stats": [
-          "-10.0C Minimum comfortable temperature"
+          "-10.0C min comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2031,20 +2231,12 @@
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [],
       "conflicts": [
-        "absent-minded",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
+        "absent-minded"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "absent-minded",
-          "industrious",
-          "hardworker",
-          "lazy",
-          "slothful"
+          "absent-minded"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -2118,12 +2310,16 @@
       "stats": [],
       "conflicts": [
         "animallover",
+        "catperson",
+        "dogperson",
         "menagerist"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "animallover",
+          "catperson",
+          "dogperson",
           "menagerist"
         ],
         "stats": [],
@@ -2304,18 +2500,22 @@
         "-50.00% social impact"
       ],
       "conflicts": [
-        "fastlearner",
-        "toosmart",
+        "academian",
         "eccentric",
-        "prodigy"
+        "prodigy",
+        "tycoon",
+        "fastlearner",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "fastlearner",
-          "toosmart",
+          "academian",
           "eccentric",
-          "prodigy"
+          "prodigy",
+          "tycoon",
+          "fastlearner",
+          "toosmart"
         ],
         "stats": [
           "-50% global learning factor",
@@ -2387,14 +2587,16 @@
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [],
       "conflicts": [
+        "desensitized",
         "ironstomach",
-        "desensitized"
+        "bloodlust"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "desensitized",
           "ironstomach",
-          "desensitized"
+          "bloodlust"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -2446,15 +2648,13 @@
       "stats": [],
       "conflicts": [
         "prude",
-        "asexual",
-        "nudist"
+        "asexual"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "prude",
-          "asexual",
-          "nudist"
+          "asexual"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -2580,12 +2780,12 @@
         "x130% research speed"
       ],
       "conflicts": [
-        "dunce"
+        "slowlearner"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "dunce"
+          "slowlearner"
         ],
         "stats": [
           "+20% mental break threshold",
@@ -2765,16 +2965,14 @@
       "conflicts": [
         "chemicalfascination",
         "chemicalinterest",
-        "teetotaler",
-        "lush"
+        "teetotaler"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
-          "teetotaler",
-          "lush"
+          "teetotaler"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -2797,16 +2995,14 @@
       "conflicts": [
         "chemicalfascination",
         "chemicalinterest",
-        "teetotaler",
-        "lush"
+        "teetotaler"
       ],
       "bypassLimit": false,
       "data": {
         "conflicts": [
           "chemicalfascination",
           "chemicalinterest",
-          "teetotaler",
-          "lush"
+          "teetotaler"
         ],
         "stats": [],
         "canBypassLimit": false,
@@ -3176,20 +3372,10 @@
       "degree": 0,
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],
-      "conflicts": [
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile"
-      ],
+      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [
-          "iron-willed",
-          "steadfast",
-          "nervous",
-          "volatile"
-        ],
+        "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
@@ -3199,214 +3385,6 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anomaly",
-        "karmaTypeForAdding": null
-      },
-      "defName": "PerfectMemory",
-      "name": "perfectmemory"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
-      "stats": [
-        "+100% study efficiency",
-        "+50% entity study rate"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+100% study efficiency",
-          "+50% entity study rate"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anomaly",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Occultist",
-      "name": "occultist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anomaly",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Joyous",
-      "name": "joyous"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anomaly",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BodyMastery",
-      "name": "bodymastery"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anomaly",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Disturbing",
-      "name": "disturbing"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
-      "stats": [
-        "Only mental break \"entity liberator\" allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Only mental break \"entity liberator\" allowed."
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anomaly",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VoidFascination",
-      "name": "voidfascination"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HAR_Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HAR_Xenophobia",
-      "name": "xenophile"
     }
   ],
   "races": [
