@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -108,7 +108,7 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -122,12 +122,12 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 400,
 		"karmatype": "Neutral"
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -426,15 +426,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 86
 }
